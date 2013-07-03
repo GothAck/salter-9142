@@ -1,0 +1,24 @@
+{
+  "name": "salter-9142",
+  "version": "0.0.0",
+  "description": "Salter 9142 MiBody",
+  "main": "converter.js",
+  "dependencies": {
+    "async": "~0.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GothAck/salter-9142.git"
+  },
+  "keywords": [
+    "salter",
+    "scales",
+    "converter"
+  ],
+  "author": "Greg \"GothAck\" Miell <greg@greg-net.co.uk>",
+  "license": "BSD"
+}
